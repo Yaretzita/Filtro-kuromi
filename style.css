@@ -1,0 +1,9 @@
+h3
+{
+   font-size: 50px !important;
+   font-family: 'Vina Sans', sans-serif;
+}
+canvas
+{
+    border: 5px dashed rgb(227, 102, 125);
+}
